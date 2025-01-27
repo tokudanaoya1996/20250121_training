@@ -1,0 +1,8 @@
+diff a/tokuda.txt b/tokuda.txt	(rejected hunks)
+@@ -4,3 +4,6 @@
+ 家崎
+ 大平
+ 
++=======
++���c
++>>>>>>> df353e968821f8a1d3afab3add6fde488e52be58
